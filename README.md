@@ -4,9 +4,9 @@
 
 ### `▢ 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 - 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝙂𝙧𝙤𝙪𝙥`
 
-[![Click Aquí](https://img.shields.io/badge/Canal-MysticBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LdFI6GQ716X0y1EmgqhUVA)
+[![Click Aquí](https://img.shields.io/badge/Canal-MysticBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VafPIGU2975ALj4uYl1g)
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN)
+[![Click Aquí](https://img.shields.io/badge/Grupo-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LdFI6GQ716X0y1EmgqhUVA)
 
 <!-- > [ ℹ️ ] En los grupos de soporte no se permiten bots.
 
