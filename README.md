@@ -17,7 +17,7 @@
 <a href="https://wa.me/5219993404349?text=!menu"><img alt="Bot Oficial2" src="https://img.shields.io/badge/Bot - Oficial2-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
 
 ### `▢ DONAR`
-- Agradece con una donación voluntaria haciendo [clic aquí](https://www.paypal.me/TheShadowBrokers133)
+- Agradece con una donación voluntaria haciendo [clic aquí]()
 
 ### `▢ PLUGINS`
 - Tienes ideas de plugins o ¿quieres obtener mas plugins? entonces hace [clic aquí](https://github.com/theh2so4/Mystic-Plugins)
