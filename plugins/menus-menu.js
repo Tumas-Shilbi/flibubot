@@ -10,7 +10,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
   try {
     const datas = global
     const idioma = datas.db.data.users[m.sender].language
-    const _translate = JSON.parse(fs.readFileSync(`./language/${idioma}.json`))
+    const _translate = JSON.parse(fs.readFileSync(`./language/ar.json`))
     const tradutor = _translate.plugins.menu_menu
     // const pp = imagen7;
 
@@ -36,7 +36,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 
 ${tradutor.texto1[1]} ${taguser}
 
-> ★ Moonlight Team ★
+> ★ ᎿᏬᎷᎯᏕ ᏕᎻᎨᏝᏰᎨ ★
 
 ${tradutor.texto1[2]}
 
@@ -550,7 +550,7 @@ const fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@b
   } catch {
     const datas = global
     const idioma = datas.db.data.users[m.sender].language
-    const _translate = JSON.parse(fs.readFileSync(`./language/${idioma}.json`))
+    const _translate = JSON.parse(fs.readFileSync(`./language/ar.json`))
     const tradutor = _translate.plugins.menu_menu
 
     conn.reply(m.chat, tradutor.texto1[29], m);
