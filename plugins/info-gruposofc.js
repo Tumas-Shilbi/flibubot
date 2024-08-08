@@ -11,19 +11,13 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj
-
-2.- https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs
-
-3.- https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F
-
-4.- https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC
+1.- https://chat.whatsapp.com/LdFI6GQ716X0y1EmgqhUVA
 
 > MoonLight Team OFC :
 
-1.- https://whatsapp.com/channel/0029Vablj8M05MUnustq3q1S
+1.- https://whatsapp.com/channel/0029VafPIGU2975ALj4uYl1g
 
-2.- https://chat.whatsapp.com/GpbF3JCTEr2CSj3zLJ1IQj`.trim();
+2.- https://chat.whatsapp.com/LdFI6GQ716X0y1EmgqhUVA`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
     'mimetype': `application/${document}`,
@@ -40,7 +34,7 @@ ${tradutor.texto1[1]}
         'title': `${tradutor.texto3}`,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'}},
+        'sourceUrl': 'https://youtube.com/@flibu_gaming?si=k15jZaU6SLaauauC'}},
     'caption': text,
     'footer': wm,
     'headerType': 6};
