@@ -342,7 +342,7 @@ if (opcion == '1' || methodCodeQR) {
     console.log(chalk.yellow('[ ℹ️ ] Escanea el código QR.'));
  }}
   if (connection == 'open') {
-    console.log(chalk.yellow('[ ℹ️ ] Conectado correctamente.'));
+    console.log(chalk.yellow('[ ℹ️ ] Online WhatsApp Bot Connection 🟢.'));
   }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode;
 if (reason == 405) {
