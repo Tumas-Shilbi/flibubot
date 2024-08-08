@@ -8,7 +8,7 @@ const handler = async (m, {conn}) => {
 
   global.verdad = tradutor.texto1;
 
-  conn.reply(m.chat, `*┌────「 𝙵𝙻𝙸𝙱𝚄 」─*\n*“${pickRandom(global.verdad)}”*\n*└────「 𝙱𝙾𝚃 」─*`, m);
+  conn.reply(m.chat, `*┌────「 𝚟𝚎𝚛𝚍𝚊𝚍 」─*\n*“${pickRandom(global.verdad)}”*\n*└────「 𝙵𝙻𝙸𝙱𝚄 𝙱𝙾𝚃 」─*`, m);
 };
 handler.help = ['verdad'];
 handler.tags = ['fun'];
