@@ -9,7 +9,7 @@ import { performance } from "perf_hooks";
 const handler = async (m, { conn, usedPrefix }) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language
-  const _translate = JSON.parse(fs.readFileSync(`./language/${idioma}.json`))
+  const _translate = JSON.parse(fs.readFileSync(`./language/ar.json`))
   const tradutor = _translate.plugins.info_estado
 
   const _uptime = process.uptime() * 1000;
@@ -28,11 +28,11 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The Mystic Bot';
+  const wm = '𝙵𝙻𝙸𝙱𝚄 𝙱𝙾𝚃';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Bruno Sobrino
-  ${tradutor.texto1[2]} +5219992095479
+  ${tradutor.texto1[1]} ᎿᏬᎷᎯᏕ ᏕᎻᎨᏝᏰᎨ
+  ${tradutor.texto1[2]} +212645106267
   ${tradutor.texto1[3]} paypal.me/TheShadowBrokers133
 
   ${tradutor.texto1[4]} ${rtime}
@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
         mediaType: 2,
         previewType: "pdf",
-        title: "The Mystic - Bot",
+        title: "𝙵𝙻𝙸𝙱𝚄 - 𝙱𝙾𝚃",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
