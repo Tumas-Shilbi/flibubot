@@ -9,9 +9,9 @@ var handler = async (m, { text, usedPrefix, command }) => {
     var res = await apii.json();
 
     if (res.result && text.trim().length > 0) {
-      await conn.sendFile(m.chat, 'https://telegra.ph/file/34bd1de01d59fb18833cc.jpg', 'image.png', res.result, m, { caption: text });
+      await conn.sendFile(m.chat, 'https://telegra.ph/file/e435dfac2044750cc6efe.jpg', 'image.png', res.result, m, { caption: text });
     } else if (res.result) {
-      await conn.sendFile(m.chat, 'https://telegra.ph/file/34bd1de01d59fb18833cc.jpg', res.result, m);
+      await conn.sendFile(m.chat, 'https://telegra.ph/file/e435dfac2044750cc6efe.jpg', res.result, m);
     } else {
       throw '> *Error ⚠️*';
     }
