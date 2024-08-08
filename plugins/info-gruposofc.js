@@ -13,7 +13,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 ${tradutor.texto1[1]}
 1.- https://chat.whatsapp.com/LdFI6GQ716X0y1EmgqhUVA
 
-> MoonLight Team OFC :
+> 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 - 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝙂𝙧𝙤𝙪𝙥 :
 
 1.- https://whatsapp.com/channel/0029VafPIGU2975ALj4uYl1g
 
