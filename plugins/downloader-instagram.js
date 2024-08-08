@@ -9,10 +9,10 @@ import { fileTypeFromBuffer } from 'file-type';
 const handler = async (m, { conn, args, command, usedPrefix }) => {
   const datas = global;
   const idioma = datas.db.data.users[m.sender].language;
-  const _translate = JSON.parse(fs.readFileSync(`./language/${idioma}.json`));
+  const _translate = JSON.parse(fs.readFileSync(`./language/ar.json`));
   const tradutor = _translate.plugins.descargas_instagram;
 
-  if (!args[0]) throw `${tradutor.texto1} _${usedPrefix + command} https://www.instagram.com/reel/C8sWV3Nx_GZ/?igsh=MWZoeTY2cW01Nzg1bQ==`;
+  if (!args[0]) throw `${tradutor.texto1} _${usedPrefix + command} https://www.instagram.com/reel/C6ijsACsxAhMQMS-iwsggUfOoVga68A2eisqX40/?igsh=MXZmN2pieTkwbGgzeA==`;
   await m.reply(global.wait);
 
   try {
