@@ -36,7 +36,15 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 
 ${tradutor.texto1[1]} ${taguser}
 
-> ★ ᎿᏬᎷᎯᏕ ᏕᎻᎨᏝᏰᎨ ★
+  ★ ᎿᏬᎷᎯᏕ ᏕᎻᎨᏝᏰᎨ ★
+
+𝗢𝘄𝗻𝗲𝗿 𝗕𝗼𝘁 : https://wa.me/+212645106267
+
+𝗬𝗼𝘂𝗧𝘂𝗯𝗲 : https://youtube.com/@flibu_gaming
+
+𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 : https://www.instagram.com/dj_flibu_remix
+
+𝗧𝗶𝗸𝗧𝗼𝗸 : https://www.tiktok.com/@dj_flibu_remix
 
 ${tradutor.texto1[2]}
 
