@@ -15,13 +15,13 @@ global.owner = ['212645106267']
 global.suittag = ['212645106267'];
 global.prems = ['212645106267'];
 
-global.packname = 'ᎿᏬᎷᎯᏕ ᏕᎻᎨᏝᏰᎨ';
-global.author = '𝗙𝗟𝗜𝗕𝗨 - 𝗕𝗢𝗧';
-global.wm = '𝗙𝗟𝗜𝗕𝗨 - 𝗕𝗢𝗧';
-global.titulowm = '𝗙𝗟𝗜𝗕𝗨 - 𝗕𝗢𝗧';
-global.titulowm2 = `𝗙𝗟𝗜𝗕𝗨 - 𝗕𝗢𝗧`
-global.igfg = '𝗙𝗟𝗜𝗕𝗨 - 𝗕𝗢𝗧';
-global.wait = '*_[ ⏳ ] انتظير للحظة يا صديقي ♥️...._*';
+global.packname = '𝙰𝚍𝚖𝚒𝚗 𝙱𝚘𝚝 : 212645106267';
+global.author = '𝙵 𝙻 𝙸 𝙱 𝚄 - 𝙱 𝙾 𝚃';
+global.wm = '𝙵 𝙻 𝙸 𝙱 𝚄 - 𝙱 𝙾 𝚃';
+global.titulowm = '𝙵 𝙻 𝙸 𝙱 𝚄 - 𝙱 𝙾 𝚃';
+global.titulowm2 = `𝙵 𝙻 𝙸 𝙱 𝚄 - 𝙱 𝙾 𝚃`
+global.igfg = '𝙵 𝙻 𝙸 𝙱 𝚄 - 𝙱 𝙾 𝚃';
+global.wait = '*[ ⏳ ] انتظير للحظة يا*  *صديقي ....♥️ انا سعيد انك* *تستخدم فليبو بوت 😁  تبعني في حسابي* https://www.instagram.com/dj_flibu_remix';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -45,9 +45,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗙𝗟𝗜𝗕𝗨 - 𝗕𝗢𝗧`;
-global.gt = '𝗙𝗟𝗜𝗕𝗨 - 𝗕𝗢𝗧';
-global.mysticbot = '𝗙𝗟𝗜𝗕𝗨 - 𝗕𝗢𝗧';
+global.wm2 = `${dia} ${fecha}\n𝙵 𝙻 𝙸 𝙱 𝚄 - 𝙱 𝙾 𝚃`;
+global.gt = '𝙵 𝙻 𝙸 𝙱 𝚄 - 𝙱 𝙾 𝚃';
+global.mysticbot = '𝙵 𝙻 𝙸 𝙱 𝚄 - 𝙱 𝙾 𝚃';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] انتظير للحظة يا صديقي ♥️...._*';
